@@ -8,5 +8,9 @@ Answers for Arab Open University ICPC group's contests on Codeforces
 
 https://codeforces.com/group/u8I2GyjhGM
 
+## Course Materials
+
+https://drive.google.com/drive/u/1/folders/1-0CWZ_cDipYz8L2ghaewhJkivQYPxwyp
+
 ## Make a Pull Request and add your answers !
 
